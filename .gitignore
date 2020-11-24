@@ -4,6 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
+package-lock.json
+.firebaserc
+firebase.json
+firestore.indexes.json
+firestore.rules
+.firebase/
 
 # testing
 /coverage
